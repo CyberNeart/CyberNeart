@@ -2,7 +2,7 @@
 
 
 <div>
-  <a href="https://www.youtube.com/@N8Neart" target:"_blank">
+  <a href="https://www.youtube.com/@N8Neart" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
  <a href="https://twitch.tv/N8Neart" target="_blank">
